@@ -1,0 +1,99 @@
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\ApplicationInsights.config
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\csc.exe
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\System.Collections.Immutable.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\vbc.exe
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\VBCSCompiler.exe
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\roslyn\VBCSCompiler.exe.config
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\TaskManagement.dll.config
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\TaskManagement.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\TaskManagement.pdb
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\EntityFramework.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\EntityFramework.SqlServer.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.Web.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.WindowsServer.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.ApplicationInsights.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.Web.Infrastructure.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Helpers.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Mvc.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Razor.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Webpages.Deployment.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Webpages.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Webpages.Razor.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\EntityFramework.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\EntityFramework.SqlServer.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.Web.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.AI.WindowsServer.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.ApplicationInsights.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Razor.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Webpages.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Webpages.Deployment.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Webpages.Razor.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Helpers.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\bin\System.Web.Mvc.xml
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\obj\Debug\TaskManagement.dll
+c:\users\umar\documents\visual studio 2015\Projects\TaskManagement\TaskManagement\obj\Debug\TaskManagement.pdb
+H:\TaskManagementSystem\TaskManagement\bin\ApplicationInsights.config
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\csc.exe
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\System.Collections.Immutable.dll
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\System.Reflection.Metadata.dll
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\vbc.exe
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\VBCSCompiler.exe
+H:\TaskManagementSystem\TaskManagement\bin\roslyn\VBCSCompiler.exe.config
+H:\TaskManagementSystem\TaskManagement\bin\TaskManagement.dll.config
+H:\TaskManagementSystem\TaskManagement\bin\TaskManagement.dll
+H:\TaskManagementSystem\TaskManagement\bin\TaskManagement.pdb
+H:\TaskManagementSystem\TaskManagement\bin\EntityFramework.dll
+H:\TaskManagementSystem\TaskManagement\bin\EntityFramework.SqlServer.dll
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.Agent.Intercept.dll
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.DependencyCollector.dll
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.Web.dll
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.WindowsServer.dll
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.ApplicationInsights.dll
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.Web.Infrastructure.dll
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Helpers.dll
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Mvc.dll
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Razor.dll
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Webpages.Deployment.dll
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Webpages.dll
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Webpages.Razor.dll
+H:\TaskManagementSystem\TaskManagement\bin\EntityFramework.xml
+H:\TaskManagementSystem\TaskManagement\bin\EntityFramework.SqlServer.xml
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.DependencyCollector.xml
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.Web.xml
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.AI.WindowsServer.xml
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.ApplicationInsights.xml
+H:\TaskManagementSystem\TaskManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Razor.xml
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Webpages.xml
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Webpages.Deployment.xml
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Webpages.Razor.xml
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Helpers.xml
+H:\TaskManagementSystem\TaskManagement\bin\System.Web.Mvc.xml
+H:\TaskManagementSystem\TaskManagement\obj\Debug\TaskManagement.csprojResolveAssemblyReference.cache
+H:\TaskManagementSystem\TaskManagement\obj\Debug\TaskManagement.dll
+H:\TaskManagementSystem\TaskManagement\obj\Debug\TaskManagement.pdb
